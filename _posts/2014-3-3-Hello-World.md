@@ -1,3 +1,3 @@
 my first post! 
 
-![my_pic](/assets/my_pic_new.jpg)
+![my_pic](/images/my_pic_new.jpg)
