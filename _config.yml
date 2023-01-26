@@ -9,7 +9,7 @@ name: Netanel shriki
 description: Changing the world's networks, one Python script at a time
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/13562529
+avatar:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -27,7 +27,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/netanelshriki
   instagram:
   linkedin:
   pinterest:
