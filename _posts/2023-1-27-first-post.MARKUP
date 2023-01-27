@@ -3,6 +3,6 @@ layout: post
 title: first post!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml](images/config.png)
 
 Hello everyone!
