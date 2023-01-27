@@ -1,5 +1,10 @@
-my first post! 
+---
+layout: post
+title:  my first post!
+---
 
-![my_pic](/images/my_pic_new.jpg)
+# Welcome everyone
 
-theme: minima
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
