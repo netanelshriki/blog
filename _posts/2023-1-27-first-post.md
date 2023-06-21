@@ -26,3 +26,21 @@ To start using squeryBuilder in your Java project, follow these steps:
 5. Use the provided methods to add clauses, filters, joins, and other components to the query.
 6. Execute the generated query using your preferred database access mechanism (JDBC, JPA, etc.) and process the results.
 
+## Code Example
+
+```Java
+public class Main {
+    public static void main(String[] args) {
+        // Create Query
+        String createQuery = QueryManager.createQuery()
+            .withEntity(new User("john","doe", 34, "johnd@gmail.com","Software Engineer"))
+            .forTable("users")
+            .build();
+        
+            try (PreparedStatement preparedStatement = connection.prepareStatement(createQuery)) {
+                preparedStatement.execute();
+            }
+
+        }
+    }
+```
