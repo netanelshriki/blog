@@ -5,6 +5,9 @@ title: first post!
 
 # squeryBuilder: A Powerful SQL Query Builder Library
 
+[SQueryBuilder](https://github.com/netanelshriki/squerybuilder)
+
+
 squeryBuilder is an open-source Java library that provides a fluent API for dynamically constructing SQL queries. With its intuitive syntax and type-safe approach, squeryBuilder simplifies the process of building complex SQL queries and helps prevent common errors.
 
 ## Features and Benefits
