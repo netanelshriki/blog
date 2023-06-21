@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first post!
+title: SQueryBuilder - getting started
 ---
 
 # [SQueryBuilder:](https://github.com/netanelshriki/squerybuilder) A Powerful SQL Query Builder Library
